@@ -1,4 +1,4 @@
-# Evaluating Serverful and Serverless Cloud Architectures on AWS: A Comprehensive Analysis
+# Evaluating Serverful and Serverless Cloud Architecture on AWS: A Comprehensive Analysis
 
 As cloud computing continues to evolve, organizations face a critical decision between adopting serverful (traditional) or serverless architectures. While both paradigms promise scalability, cost efficiency, and performance optimization, the challenge lies in understanding which solution best aligns with specific use cases and workloads.
 
